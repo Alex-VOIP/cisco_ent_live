@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This project provides a simple desktop application to view a live feed of a Cisco IP phone's screen. It's useful for monitoring a phone's display remotely, for testing, or for presentations.
+This project provides a simple desktop application to view a live feed of a Cisco IP phone's screen. It's useful for monitoring a phone's display remotely, for testing, or for presentations. (made by alex and then google jules made the documentation)
 
 The application continuously fetches screenshots from the phone and displays them in a `tkinter` window.
 
